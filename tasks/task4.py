@@ -2,7 +2,9 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    n = int(input())
+    a= n + (n//2)+1
+    print(a)
 
     
 
